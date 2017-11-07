@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Diego Lapiduz</title>
+    <link>/tags/about/index.xml</link>
+    <description>Recent content in About on Diego Lapiduz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Thu, 16 Mar 2017 15:04:10 -0500</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>&lt;p&gt;I am just someone that writes code and builds &amp;ldquo;clouds&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;You can find some code here: &lt;a href=&#34;https://github.com/dlapiduz&#34;&gt;https://github.com/dlapiduz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And some talks there:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VwxpLW5BphU&#34;&gt;Building an open platform for government innovation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=598c1pB39Ms&#34;&gt;Deployments we can believe in&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
